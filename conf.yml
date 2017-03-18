@@ -1,0 +1,11 @@
+controller:
+  name : "left ctrl"
+  icc_port : "3030"
+
+controller_grp:
+  - 
+    host : "192.168.1.152"
+    icc_port : "3031"
+  - 
+    host : "192.168.1.152"
+    icc_port : "3032"
