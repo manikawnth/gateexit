@@ -1,1 +1,2 @@
-console.log(require('./lib/config.js'));
+const gateexit = require('./lib/gateexit');
+gateexit();
