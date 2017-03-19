@@ -1,8 +1,10 @@
-controller:
+serviceUUID : "d0d3fa86ca7645ec9bd96af41d31ed9a"
+
+controller :
   name : "left ctrl"
   icc_port : "3030"
 
-controller_grp:
+controller_grp :
   - 
     host : "192.168.1.152"
     icc_port : "3031"
